@@ -1,6 +1,6 @@
 # MONPROJET - Mes pages "statiques"
 
-Module Prestashop génrique pour créer des pages statiques facilement.
+Module Prestashop générique pour créer des pages statiques facilement.
 
 1. **Step 1:** Changer le nom du module, le nom de la classe, du dossier et la description pour l'adapter au projet en cours.
 2. **Step 2:** Pour ajouter des pages statiques, créer un fichier avec le nom de votre page (ex: about) suivi de l'extension `.php` dans le dossier `MONPROJET_mystaticpages/controllers/front/` (comme le fichier genericpage.php, vous pouvez également le copier et changer son nom afin de le modifier).
