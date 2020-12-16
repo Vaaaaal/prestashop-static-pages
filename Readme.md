@@ -17,3 +17,5 @@ public function __construct()
         ...
     }
 ```
+
+7. **Step 7:** Il n'y a plus qu'a aller dans le back office de prestashop, onglet parametre puis SEO et trafic et trouver le controller dans le tableau pour lui ajouter une URL personnalisée.
